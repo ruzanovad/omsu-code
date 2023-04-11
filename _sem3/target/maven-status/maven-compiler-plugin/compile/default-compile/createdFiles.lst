@@ -1,0 +1,17 @@
+Product.class
+EndStringFilter.class
+Filter.class
+IPiece.class
+IFoldable.class
+PackagedWeightedProduct.class
+ProductService.class
+IPackaged.class
+PackagedPieceProduct.class
+PieceProduct.class
+IWeighted.class
+WeightedProduct.class
+BeginStringFilter.class
+LevenshteinFilter.class
+Goods.class
+PackagedProductSet.class
+Packaging.class
